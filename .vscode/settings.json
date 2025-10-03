@@ -1,0 +1,10 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "name": "Sakila",
+      "driver": "SQLite",
+      "database": "${workspaceFolder:sakila-sql-analysis}/sakila.db"
+    }
+  ]
+}

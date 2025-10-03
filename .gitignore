@@ -1,0 +1,6 @@
+# SQLite binaries
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.sqlite-journal
