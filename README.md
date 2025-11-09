@@ -43,25 +43,25 @@ Press Ctrl + Enter / Cmd + Enter to execute using the Sakila connection
 Run them block by block to see insights such as top films, staff performance, RFM cohorts, and more.
 
 ## 🧮 Analysis Highlights
-🔹💰 Monthly revenue & MoM growth
-🔹🎬 Top films and best-performing categories
-🔹👥 Staff & store productivity metrics
-🔹🌍 Geographic breakdown by country & city
-🔹🚚 Shipping duration and delivery efficiency KPIs
-🔹💎 RFM scoring and cohort retention analysis
+- 💰 Monthly revenue & MoM growth
+- Top films and best-performing categories
+- 👥 Staff & store productivity metrics
+- 🌍 Geographic breakdown by country & city
+- 🚚 Shipping duration and delivery efficiency KPIs
+- 💎 RFM scoring and cohort retention analysis
 
 ## 🧠 Key Insights
-🔹 Comedy, Sports, and Action categories deliver the highest rental volume.
-🔹 Customers aged 25–40 drive ~60 % of revenue.
-🔹 Store 1 (Mike Hillyer) outperforms Store 2 by ≈ 12 % in total revenue.
-🔹 Frequent renters (RFM > 0.8) generate 55 % of all income.
-🔹 Cohorts show ~30 % month-2 retention, stabilizing near 20 % by month 6.
+- Comedy, Sports, and Action categories deliver the highest rental volume.
+- Customers aged 25–40 drive ~60 % of revenue.
+- Store 1 (Mike Hillyer) outperforms Store 2 by ≈ 12 % in total revenue.
+- Frequent renters (RFM > 0.8) generate 55 % of all income.
+- Cohorts show ~30 % month-2 retention, stabilizing near 20 % by month 6.
 
 ## 💼 Business Relevance
-🔹 Insights from this analysis help rental businesses and media distributors:
-🔹 Identify profitable movie categories and loyal customer segments.
-🔹 Benchmark staff/store performance and optimize scheduling.
-🔹 Adjust inventory and marketing by region and demand trends.
+- Insights from this analysis help rental businesses and media distributors:
+- Identify profitable movie categories and loyal customer segments.
+- Benchmark staff/store performance and optimize scheduling.
+- Adjust inventory and marketing by region and demand trends.
 
 ## 📂 File Structure
 sakila-sql-analysis/
